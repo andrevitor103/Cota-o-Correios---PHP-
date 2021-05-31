@@ -1,0 +1,5 @@
+{
+    "require": {
+        "flyingluscas/correios-php": "^2.4"
+    }
+}
